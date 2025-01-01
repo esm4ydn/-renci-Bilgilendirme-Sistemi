@@ -1,0 +1,2 @@
+# -renci-Bilgilendirme-Sistemi
+tablo
